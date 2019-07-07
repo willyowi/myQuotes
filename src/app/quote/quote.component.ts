@@ -10,8 +10,8 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
     new Quote(1, 'Kevin heart', 'I DON’T have EX’s! I have Y’s. Like ‘Y the hell did I date you?!’',new Date(2018,6,14)),
-    new Quote(2,'Buy Cookies','Take your risks now, as you grow older you become more fearful and less flexible. And I mean that literally. I hurt my knee this week on the treadmill, and it wasn’t even on.',new Date(2019,4,9)),
-    new Quote(3,'Get new Phone Case','Diana has her birthday coming up soon',new Date(2019,6,1)),
+    new Quote(2,'Amy Poehler','Take your risks now, as you grow older you become more fearful and less flexible. And I mean that literally. I hurt my knee this week on the treadmill, and it wasn’t even on.',new Date(2019,4,9)),
+    new Quote(3,'Vin Diesel','The trouble with the rat race is that even if you win, you’re still a rat.',new Date(2019,6,1)),
     new Quote(4,'Get Dog Food','Pupper likes expensive snacks',new Date(2019,3,23)),
     new Quote(5,'Solve math homework','Damn Math',new Date(2019,1,21)),
     new Quote(6,'Plot my world domination plan','Cause I am an evil overlord',new Date(2018,8,6)),
