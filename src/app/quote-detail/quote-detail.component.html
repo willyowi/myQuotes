@@ -1,1 +1,5 @@
-<p>quote-detail works!</p>
+
+<p>{{quote.description}}</p>
+<p>Quote was published {{quote.completeDate|dateCount}} days ago</p>
+<button class="btn btn-danger" (click)= 'quoteDelete(true)'>Delete</button>
+<app-votes></app-votes>
