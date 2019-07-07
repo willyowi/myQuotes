@@ -10,8 +10,8 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
     new Quote(1, 'Trevor Noah', 'Don’t worry about the world coming to an end today coz guess what, It’s already tomorrow in Australia.',new Date(2018,6,14)),
-    new Quote(2,'Amy Poehler','Take your risks now, as you grow older you become more fearful and less flexible. And I mean that literally. I hurt my knee this week on the treadmill, and it wasn’t even on.',new Date(2019,4,9)),
-    new Quote(3,'Vin Diesel','The trouble with the rat race is that even if you win, you’re still a rat.',new Date(2019,6,1)),
+    new Quote(2,'Amy Poehler','If People are talking behind your back, jus fart',new Date(2019,4,9)),
+    new Quote(3,'Vin Diesel','Dont Break someones heart,they only have one, break their bones,they have 206 of them',new Date(2019,6,1)),
     new Quote(4,'Chris Rock','Accept who you are. Unless you are a serial killer',new Date(2019,3,23)),
     new Quote(5,'Trevor Noah','Does America really need to the best at everything? You already dominate the world in economics, military power and obesity.',new Date(2019,1,21)),
     new Quote(6,'Kevin Hart','I DON’T have EX’s! I have Y’s. Like ‘Y the hell did I date you?!',new Date(2018,8,6)),
