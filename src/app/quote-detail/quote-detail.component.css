@@ -3,4 +3,11 @@ body{
 }
 #det{
     color: white;
+
+}
+#quotes{
+    color: coral;
+    font-family: 'Bahianita', cursive;
+    font-size: 50px;
+
 }
